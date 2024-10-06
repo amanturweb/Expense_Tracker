@@ -1,5 +1,5 @@
 # Expense_Tracker
-Simple app, to analyze monthly incomes and expenses )
+App, to analyze monthly incomes and expenses )
 1. You can add Incomes/Expenses by clicking add Buttom
 2. You can delete them, if you will click to Expenses/Incomes on the right side will appear buttom wich you can use to delete )
 3. 
